@@ -9,6 +9,7 @@ class Autocommit < Formula
   version "0.1"
   sha256 "db78eade67a415a4e25912b182136629986718eed88923bff971719778ddc556"
 
+  
   # depends_on "cmake" => :build
   # depends_on :x11 # if your formula requires any X11/XQuartz components
 
